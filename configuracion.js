@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["50766666099@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '50766666099' 
 // mude para seu numero
 
 const callbotmsgs = ['orion', 'brizas']
@@ -63,7 +63,7 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️\n' 
+const cr = '⚜️🖤 𝐗𝐞𝐜𝐤𝐳 🖤⚜️\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -148,16 +148,16 @@ const botgostoso = 'Arigato go sai masu 😳👉👈'
 const botfofo = 'Arigato go sai masu 😳👉👈'
 const botbaianor = 'Convidei sua placa-mãe pra minha rede seu corno'
 const botcorno = 'Vai te foder, jogador de ff, comprador de pack do pézinho'
-const botputa = 'Senhora sua mãe 😡'
-const botgay = 'Falou o manja rola 😡'
+const botputa = 'la puta es tu ex venao 😡'
+const botgay = 'ta bien no mas que tu  😡'
 const botviado = 'Falou o manja rola 😡'
-const numbotfeio = 'senhora sua mãe 😡'
+const numbotfeio = 'mirate en un espejo 😡'
 // KEYS
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Aguarde um pouco... ⌛',
-    success: '✔️ Sucesso! ✔️',
+    wait: '⌛ en proceso ⌛',
+    success: '✔️ listo ✔️',
     error: {
         stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
         Iv: '❌ Link inválido ❌'
@@ -177,7 +177,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'TEL;type=CELL;type=VOICE;waid=50766666099:+507 6666-6099\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
